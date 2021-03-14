@@ -1,0 +1,77 @@
+body {
+    background-color: #0776A0;
+     margin-left: 0px ;
+    margin-right: 0px;
+}
+.ffff {
+    text-decoration: none;
+    color: black;
+    border: 3px solid black;
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    font-size: 40px;
+    font-family: Marker Felt, fantasy;
+    margin-left: 10px;
+}
+.orph {
+    text-decoration: none;
+    color: black;
+    background-color: orange;
+    border-radius: 5px;
+    padding: 3px;
+    font-family: sans-serif;
+    font-size: 25px;
+
+}
+.main {
+    background-color: white;
+    margin-left: 0px ;
+    margin-right: 0px;
+}
+h1 {
+    text-align: center;
+}
+.mainimgbig {
+    width: 403px;
+    height: 200px;
+    margin: 20px 0px 0px 20px;
+}
+.mainimg {
+    width: 100px;
+    height: 200px;
+    margin: 20px 0px 0px 20px;
+}
+.mainimgone {
+    width: 250px;
+    height: 200px;
+    margin: 20px 0px 0px 20px;
+}
+.iconmin {
+    width: 20px;
+    height: 20px;
+}
+.myss {
+    color:#FF2C00;
+    margin-left: 15px;
+    font-family: sans-serif;
+}
+ul {
+    list-style: url(https://i.ibb.co/xDfZBbc/Arrow-red.png);
+    margin-left: 10px;
+}
+ul li {
+    font-family: sans-serif;
+}
+.h12 {
+    border-top:5px solid black ;
+     border-bottom:5px solid black ;
+    
+}
+footer p {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+    background-color: #024C68;
+
+}
